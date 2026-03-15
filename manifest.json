@@ -1,0 +1,11 @@
+{
+  "id": "com.exxcode.agent",
+  "name": "ExxCode",
+  "mainClass": "com.exxcode.agent.ExxCodeExtension",
+  "version": "0.1.0",
+  "description": "AI agent commands for Xed-Editor",
+  "authors": ["ExxCode"],
+  "minAppVersion": 80,
+  "targetAppVersion": 80,
+  "repository": ""
+}
